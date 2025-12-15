@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm Shakthi Vijay
 
-<!--
-**Shakthivijay/Shakthivijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student  
+💻 Aspiring Software Developer | Cybersecurity & IoT Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- IoT & ML based **Cloudburst Early Warning System**
+- ESP32 / NodeMCU sensor-based projects
+- Streamlit dashboards for real-time data visualization
+
+### 🌱 I’m currently learning
+- Data Structures & Algorithms (Placement focused)
+- Machine Learning for weather & risk prediction
+- Ethical Hacking & Cybersecurity (Kali Linux, tools)
+- Java & Advanced Python
+
+### 👯 I’m looking to collaborate on
+- Open-source **IoT + AI** projects  
+- Cybersecurity & automation tools  
+- Real-world problem-solving tech projects
+
+### 🤔 I’m looking for help with
+- Optimizing ML models for real-time systems  
+- Advanced backend integration for IoT dashboards
+
+### 💬 Ask me about
+- ESP32 / NodeMCU projects  
+- Cloudburst prediction & weather analytics  
+- Python, Streamlit, ML basics  
+- Ethical hacking fundamentals
+
+### 📫 How to reach me
+- GitHub: [github.com/Shakthivijay](https://github.com/Shakthivijay)
+
+### 😄 Pronouns
+- He / Him
+
+### ⚡ Fun fact
+- I love turning **real-world problems into tech solutions** 🚀

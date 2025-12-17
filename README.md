@@ -1,41 +1,34 @@
-## Hi there 👋 I'm Shakthi Vijay
+## Shakthi 👋
 
-🎓 3rd Year Computer Science Engineering Student  
-💻 Aspiring Software Developer | Cybersecurity & IoT Enthusiast  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakthivijay&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakthivijay&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
-### 🔭 I’m currently working on
-- IoT & ML based **Cloudburst Early Warning System**
-- ESP32 / NodeMCU sensor-based projects
-- Streamlit dashboards for real-time data visualization
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNodml6cGdneXYxdGRkc3N0a2N3bW5mamRuenJ2cm14dmVzcDJjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UYmY3vRnWpHHO/200.webp" width="220" />
 
-### 🌱 I’m currently learning
-- Data Structures & Algorithms (Placement focused)
-- Machine Learning for weather & risk prediction
-- Ethical Hacking & Cybersecurity (Kali Linux, tools)
-- Java & Advanced Python
+CS Student | Learning by Building  
 
-### 👯 I’m looking to collaborate on
-- Open-source **IoT + AI** projects  
-- Cybersecurity & automation tools  
-- Real-world problem-solving tech projects
+- Interested in Software & Security  
+- Exploring Linux and small projects  
+- One step at a time 🚶‍♂️  
 
-### 🤔 I’m looking for help with
-- Optimizing ML models for real-time systems  
-- Advanced backend integration for IoT dashboards
+`Consistency > Motivation`
 
-### 💬 Ask me about
-- ESP32 / NodeMCU projects  
-- Cloudburst prediction & weather analytics  
-- Python, Streamlit, ML basics  
-- Ethical hacking fundamentals
+<br clear="right"/>
 
-### 📫 How to reach me
-- GitHub: [github.com/Shakthivijay](https://github.com/Shakthivijay)
+---
 
-### 😄 Pronouns
-- He / Him
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css" />
+</p>
 
-### ⚡ Fun fact
-- I love turning **real-world problems into tech solutions** 🚀
+---
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
